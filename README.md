@@ -1,4 +1,4 @@
-csc420
+# CSC420
 
 Slides located under Presentation.pdf
 
