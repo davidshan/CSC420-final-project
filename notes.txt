@@ -1,0 +1,5 @@
+Change in Scope
+
+1. Changed usage of OCR engine from CRNN (which was self-implemented) to the open source library pytesseract (Tesseract OCR engine). Reason for changing was that the CRNN did not work very well for our purposes (it would only output a few letters, out of the hundreds which existed in the nutrition label)
+
+2. We did not end up implementing countour detection and perspective transform for the nutrition label since we ran out of time trying to implement the other image processing techniques by hand and not using openCV functions to do them. We realized that doing U-NET segmentation to help detect the label would need a lot of additional time to implement since it includes making a neural network model, creating the ground truth masks, training the model and tweaking it.
