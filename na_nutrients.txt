@@ -1,0 +1,22 @@
+calories
+calories/calories
+fat/lipides
+fat
+saturated/satures
+saturated
+trans/trans
+carbohydrate
+cholesterol
+cholesterol/cholesterol
+sodium/sodium
+sodium
+carbohydrate/glucides
+fibre/fibres
+fibre
+fiber
+dietary fiber
+sugars/sucres
+sugars
+protein
+total fat
+total carbohydrate
