@@ -2,4 +2,5 @@
 
 Slides located under Presentation.pdf
 
-Code is in the notebooks
+## Usage 
+Code is in the notebooks. Please use Google Colab to run them. Each of them will have a set of instructions which will tell you how to setup the environments necessary
